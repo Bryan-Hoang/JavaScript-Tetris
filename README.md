@@ -11,7 +11,7 @@ A project based learning activity for people who are getting started with Git an
 5. When completed, the rows will disappear.
 6. To pause the game, just press the space bar again.
 
-#### You can play the game [here](https://Bryan-Hoang.github.io/github-games/)!
+#### You can play the game [here](https://Bryan-Hoang.github.io/JavaScript-Tetris/)!
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
